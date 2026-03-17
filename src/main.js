@@ -23,7 +23,7 @@ AOS.init()
 
 const app = createApp(App)
 app.mount('#app')
-  
+
 setTimeout(() => {
   import('./assets/js/main.js')
 }, 100)
