@@ -20,6 +20,7 @@ import './assets/vendor/swiper/swiper-bundle.min.js'
 
 import 'aos/dist/aos.css'
 
+window.AOS = AOS
 window.Typed = Typed
 window.GLightbox = GLightbox
 window.imagesLoaded = imagesLoaded
@@ -30,4 +31,4 @@ AOS.init()
 const app = createApp(App)
 app.mount('#app')
 
-import './assets/js/main.js'
+import('./assets/js/main.js')
