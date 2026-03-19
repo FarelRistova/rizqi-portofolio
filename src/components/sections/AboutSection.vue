@@ -48,13 +48,6 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <ul>
-                                <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>13 March
-                                        1998</span></li>
-                                <!-- <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
-                                    <span>www.example.com</span>
-                                </li> -->
-                                <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span> +6287 7227
-                                        51754</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Jakarta,
                                         ID</span></li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong>
@@ -64,7 +57,6 @@
                         </div>
                         <div class="col-lg-6">
                             <ul>
-                                <!-- <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li> -->
                                 <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor</span>
                                 </li>
                                 <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong>
